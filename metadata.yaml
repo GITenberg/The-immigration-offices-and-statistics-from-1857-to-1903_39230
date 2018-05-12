@@ -1,0 +1,30 @@
+_repo: The-immigration-offices-and-statistics-from-1857-to-1903_39230
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39230-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Argentina. Ministerio de Agricultura
+    aliases:
+    - Argentina. Ministry of Agriculture
+    - Argentine Republic. Ministerio de Agricultura
+    gutenberg_agent_id: '39910'
+    url: http://www.gutenberg.org/2009/agents/39910
+description: ''
+gutenberg_issued: '2012-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Emigration and immigration law -- Argentina'
+- !lcc 'JV'
+- !lcsh 'Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)'
+- !lcsh 'Argentina -- Emigration and immigration -- Statistics'
+title: "The immigration offices and statistics from 1857 to 1903\r\nInformation for\
+  \ the Universal Exhibition of St. Louis (U.S.A.)"
+url: http://www.gutenberg.org/ebooks/39230
